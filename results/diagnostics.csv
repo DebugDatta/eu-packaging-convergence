@@ -1,0 +1,25 @@
+diagnostic,value
+breusch_pagan_stat,18.117522074262016
+breusch_pagan_p,0.053013275043753555
+jarque_bera_stat,74.4006134093843
+jarque_bera_p,6.984126115901214e-17
+skewness,0.23803956530973142
+kurtosis,5.733123458914681
+vif_level,1.999158125389253
+vif_log_gdp,1.9991581253892534
+condition_number_standardised,2.413494857483875
+max_cooks_distance,0.07485138654744351
+max_cooks_obs,Romania 2019
+cooks_threshold_4_over_n,0.017241379310344827
+obs_above_threshold,17
+leave_one_country_out_beta_min,-0.06430789425034909
+leave_one_country_out_beta_max,-0.054895845149906225
+endpoint_breusch_pagan_p,0.2562045428422833
+endpoint_jarque_bera_p,0.6896215078478407
+endpoint_vif_level,2.9391621911433203
+endpoint_vif_log_gdp,4.144594366910603
+endpoint_vif_wtp,1.8169259098198243
+endpoint_condition_number_standardised,3.8319345849397712
+endpoint_max_cooks_distance,0.38269477191753165
+endpoint_max_cooks_country,Estonia
+endpoint_cooks_threshold_4_over_n,0.14814814814814814

@@ -1,0 +1,9 @@
+window,club,size,club_b,club_t,members
+full_ten_years,1,4,-0.043507040548444675,-0.13625938112710198,"Ireland, Luxembourg, Italy, Germany"
+full_ten_years,2,6,-0.2785763363668692,-1.3379134385825566,"Denmark, France, Spain, Portugal, Malta, Romania"
+full_ten_years,3,9,-0.2156838943835108,-1.0167161708312027,"Netherlands, Belgium, Austria, Finland, Latvia, Lithuania, Estonia, Slovenia, Sweden"
+full_ten_years,4,1,,,Slovakia
+full_ten_years,5,2,-0.046924011657780776,-0.3209836011603309,"Cyprus, Croatia"
+drop_first_two_years,1,9,0.021214088881582688,0.1643899610974127,"Ireland, Luxembourg, Italy, Germany, Denmark, Spain, Malta, Finland, Romania"
+drop_first_two_years,2,10,0.08440229026904333,0.7315541664370987,"France, Portugal, Netherlands, Belgium, Austria, Latvia, Lithuania, Estonia, Slovenia, Sweden"
+drop_first_two_years,3,3,-0.08382979355942768,-0.5277692361070957,"Slovakia, Cyprus, Croatia"
